@@ -1,0 +1,14 @@
+Dependencies:
+        * open3d
+
+How to run:
+        * Each question has its own directory.
+        * Each of the questions directory has files for each part.
+        * Run the python files without any arguments to get the usage instructions.
+
+Notes:
+
+References:
+        * http://www.open3d.org/docs/0.9.0/tutorial/Basic/file_io.html
+        * http://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html
+        * https://github.com/isl-org/Open3D/issues/1095
